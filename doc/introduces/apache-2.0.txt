@@ -1,0 +1,19 @@
+
+  Apache License 2.0
+
+  A permissive license that also provides an express grant of
+  patent rights from contributors to users.
+
+
+  Permissions           Conditions             Limitations
+  ● Commercial Use      ● License and          ● Trademark Use
+  ● Distribution          Copyright Notice
+  ● Modification        ● State Changes
+  ● Patent Use
+  ● Private Use
+
+
+  Note: The Apache Foundation recommends taking the additional
+  step of adding a boilerplate notice to the header of each
+  source file. You can find the notice at the very end of the
+  license in the appendix.

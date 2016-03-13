@@ -1,0 +1,35 @@
+{
+  "name": "licen",
+  "version": "0.0.1",
+  "description": "Generate license files for your projects.",
+  "main": "index.js",
+  "bin": {
+    "licen": "./bin/app.js"
+  },
+  "keywords": [
+    "licence",
+    "license",
+    "lice",
+    "licen",
+    "cli",
+    "generator",
+    "legal"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bubkoo/licen.git"
+  },
+  "author": "bubkoo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bubkoo/licen/issues"
+  },
+  "homepage": "https://github.com/bubkoo/licen#readme",
+  "dependencies": {
+    "inquirer": "^0.12.0",
+    "minimist": "^1.2.0"
+  }
+}

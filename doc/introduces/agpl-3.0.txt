@@ -1,0 +1,22 @@
+
+  GNU Affero General Public License v3.0
+
+  The GNU GPL is the most widely used free software license and
+  has a strong copyleft requirement. When distributing derived
+  works, the source code of the work must be made available under
+  the same license.
+
+
+  Permissions           Conditions             Limitations
+  ● Commercial Use      ● Disclose Source      ● Hold Liable
+  ● Distribution        ● License and
+  ● Modification          Copyright Notice
+  ● Patent Use          ● Network Use
+  ● Private Use           is Distribution
+                        ● Same License
+                        ● State Changes
+
+
+  Note: The Free Software Foundation recommends taking the additional
+  step of adding a boilerplate notice to the top of each file. The
+  boilerplate can be found at the end of the license.
