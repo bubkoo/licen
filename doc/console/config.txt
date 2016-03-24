@@ -1,0 +1,17 @@
+
+  Set the default value of variables.
+
+  Usage: licen --config key1=value1 [key2=value2 ...]
+
+  Note: You can only set the default value of these variables: "filename",
+  "license", "fullname", "email" and "year". In other words, any other
+  variables will be ignored.
+
+  Examples:
+
+  $ licen --config
+  $ licen --config fullname
+  $ licen --config fullname=yourname
+  $ licen --config license=mit email=something@tail.com
+
+  For more details see https://github.com/bubkoo/licen/

@@ -1,5 +1,7 @@
 
-  Usage: mock [options] [--rules path-to-rules.js]
+  Generate license files for your projects.
+
+  Usage: licen [options] [--rules path-to-rules.js]
 
 
   Options:
@@ -26,16 +28,16 @@
   it will response with 404.
 
   To learn more about rule files: mock --help rules. See also the samples:
-  https://github.com/bubkoo/restful-mock-server/tree/master/rules
+  https://github.com/bubkoo/licen/tree/master/rules
 
 
   Examples:
 
-  $ mock
-  $ mock --rule ./rules/random.js
-  $ mock --rule ./rules/random.js --debug
-  $ mock --rule ./rules/random.js --port 9000 --host 127.0.0.1
-  $ mock --help
-  $ mock --help rules
+  $ licen
+  $ licen --rule ./rules/random.js
+  $ licen --rule ./rules/random.js --debug
+  $ licen --list
+  $ licen --help
+  $ licen --help config
 
   For more details see https://github.com/bubkoo/licen/
