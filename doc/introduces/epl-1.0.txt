@@ -1,0 +1,24 @@
+
+  Eclipse Public License 1.0
+
+  This commercially-friendly copyleft license provides the ability
+  to commercially license binaries; a modern royalty-free patent
+  license grant; and the ability for linked works to use other
+  licenses, including commercial ones.
+
+
+  Permissions           Conditions             Limitations
+  ● Commercial Use      ● Disclose Source      ● Hold Liable
+  ● Distribution        ● License and
+  ● Modification          Copyright Notice
+  ● Patent Use          ● Same License
+  ● Private Use
+
+
+  Who's using this license?
+  ¤ Clojure
+  ¤ JUnit
+  ¤ openHAB
+
+
+  For more details see http://choosealicense.com/licenses/epl-1.0/

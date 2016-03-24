@@ -1,0 +1,17 @@
+
+  BSD 3-clause “New” or “Revised” License
+
+  A permissive license lets people do anything with your code with
+  proper attribution and without warranty. The ISC license is
+  functionally equivalent to the BSD 2-Clause and MIT licenses,
+  removing some language that is no longer necessary.
+
+
+  Permissions           Conditions             Limitations
+  ● Commercial Use      ● License and          ● Hold Liable
+  ● Distribution          Copyright Notice
+  ● Modification
+  ● Private Use
+
+
+  For more details see http://choosealicense.com/licenses/bsd-3-clause/

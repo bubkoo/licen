@@ -17,3 +17,12 @@
   step of adding a boilerplate notice to the header of each
   source file. You can find the notice at the very end of the
   license in the appendix.
+
+
+  Who's using this license?
+  ¤ Android
+  ¤ Apache
+  ¤ Swift
+
+
+  For more details see http://choosealicense.com/licenses/apache-2.0/

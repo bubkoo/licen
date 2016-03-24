@@ -1,0 +1,17 @@
+
+  Artistic License 2.0
+
+  Heavily favored by the Perl community, the Artistic license
+  requires that modified versions of the software do not prevent
+  users from  running the standard version.
+
+
+  Permissions           Conditions             Limitations
+  ● Commercial Use      ● License and          ● Hold Liable
+  ● Distribution          Copyright Notice     ● Trademark Use
+  ● Modification        ● State Changes
+  ● Patent Use
+  ● Private Use
+
+
+  For more details see http://choosealicense.com/licenses/artistic-2.0/

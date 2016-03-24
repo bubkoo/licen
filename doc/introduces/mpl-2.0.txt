@@ -12,3 +12,6 @@
   ● Modification          Copyright Notice
   ● Patent Use          ● Same License
   ● Private Use
+
+
+  For more details see http://choosealicense.com/licenses/mpl-2.0/

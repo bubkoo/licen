@@ -1,5 +1,5 @@
 
-  GNU Affero General Public License v3.0
+  GNU General Public License v2.0
 
   The GNU GPL is the most widely used free software license and
   has a strong copyleft requirement. When distributing derived
@@ -11,10 +11,8 @@
   ● Commercial Use      ● Disclose Source      ● Hold Liable
   ● Distribution        ● License and
   ● Modification          Copyright Notice
-  ● Patent Use          ● Network Use
-  ● Private Use           is Distribution
-                        ● Same License
-                        ● State Changes
+  ● Patent Use          ● Same License
+  ● Private Use         ● State Changes
 
 
   Note: The Free Software Foundation recommends taking the additional
@@ -22,4 +20,9 @@
   boilerplate can be found at the end of the license.
 
 
-  For more details see http://choosealicense.com/licenses/agpl-3.0/
+  Who's using this license?
+  ¤ Linux
+  ¤ WordPress
+
+
+  For more details see http://choosealicense.com/licenses/gpl-2.0/

@@ -1,0 +1,22 @@
+
+  MIT License
+
+  A permissive license that is short and to the point. It lets
+  people do anything with your code with proper attribution
+  and without warranty.
+
+
+  Permissions           Conditions             Limitations
+  ● Commercial Use      ● License and          ● Hold Liable
+  ● Distribution          Copyright Notice
+  ● Modification
+  ● Private Use
+
+
+  Who's using this license?
+  ¤ jQuery
+  ¤ .NET Core
+  ¤ Rails
+
+
+  For more details see http://choosealicense.com/licenses/mit/

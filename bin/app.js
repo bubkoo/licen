@@ -1,14 +1,13 @@
 #!/usr/bin/env node
 
 var pkg       = require('../package.json');
+var prompts   = require('../lib/prompts');
 var parseArgs = require('minimist');
-var promptFor = require('../lib/prompts');
-
 
 var version = 'v' + pkg.version;
 
 var argv = parseArgs(process.argv.slice(2), {
-  alias  : {
+  alias: {
     h: 'help',
     V: 'version',
     l: 'list',
@@ -18,7 +17,7 @@ var argv = parseArgs(process.argv.slice(2), {
   },
   default: {},
   boolean: [],
-  string : [],
+  string: [],
   unknown: function (name) {
     console.log('  Unknown option: ', name);
   }
@@ -35,4 +34,4 @@ if (argv.version) {
 }
 
 
-promptFor.action(argv);
+prompts.list(argv);
