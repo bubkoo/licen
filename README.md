@@ -1,2 +1,48 @@
 # licen
-Generate license files for your projects.
+
+> Generate license files for your projects.
+
+## Install
+
+```
+$ npm install licen -g
+```
+
+## Usage
+
+```
+$ licen [options]
+```
+
+The available options are:
+
+```
+  -g, --generate ................. Generate license/header.
+  -s, --show ..................... Print license/header.
+  -i, --introduce ................ Print license introduction.
+  -H, --header ................... Generate/Print a license header.
+  -l, --license ??? .............. Specify a license.
+  -p, --path ??? ................. Specify the license file path.
+  -n, --filename ??? ............. Specify the generated license file name.
+  -f, --fullname ??? ............. Specify the owner's fullname.
+  -e, --email ??? ................ Specify the email.
+  -y, --year ??? ................. Specify the year.
+  --list ......................... List available licenses.
+  -o, --overwrite ................ Overwrite when a license file exist.
+  -c, --config ................... Set the default value of variables.
+  -V, --version .................. Print the current version.
+  -h, --help ..................... You're looking at it.
+  -h, --help [command] ........... Show details for the specified command.
+```
+
+## Examples
+
+```
+  $ licen
+  $ licen -gol mit -n LICENSE -f yourName
+  $ licen --list
+  $ licen --config key1=value1 [key2=value2 ...]
+  $ licen --help config
+  $ licen --help
+  $ licen --version
+```

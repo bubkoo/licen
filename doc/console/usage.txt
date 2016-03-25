@@ -1,3 +1,0 @@
-  Usage: licen [-h]
-
-  See "licen --help" for more.
