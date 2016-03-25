@@ -14,6 +14,7 @@ var argv = parseArgs(process.argv.slice(2), {
     i: 'introduce',
     g: 'generate',
     s: 'show',
+    o: 'overwrite',
     l: 'license',
     p: 'path',
     n: 'filename',
