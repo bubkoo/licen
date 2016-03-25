@@ -1,43 +1,37 @@
 
   Generate license files for your projects.
 
-  Usage: licen [options] [--rules path-to-rules.js]
+  Usage: licen [options]
 
 
   Options:
 
-  -r, --rules file .......... Specified an rule file. `mock --help rules` for more information.
-  -p, --port port ........... Specify the port for proxy server. Default: 9528.
-  -h, --host host ........... Specify the hostname for proxy server. Default: '127.0.0.1'.
-  -w, --watch ............... When true the rules will auto update when the rule files changed.
-  -d, --debug ............... Show debugging information whilst running. Default: true.
-  -v, --verbose ............. Show verbose logging whilst running. Default: false.
-  -s, --silent .............. Disable any logs. Default: false.
-  --sensitive ............... When true the route will be case sensitive. Default: false.
-  --strict .................. When false the trailing slash is optional. Default: false.
-  --end ..................... When false the path will match at the beginning. Default: true.
-  -V, --version ............. Print the current version.
-  -h, --help ................ You're looking at it.
-  -h, --help command ........ Show details for the specified command.
-  --no-color ................ Disable colors in the console.
-
-
-  Note: By default, mock just start a server. If an rule file specified, mock
-  server will match every request from the rules firstly, and try to match with
-  the rules, if any rule matched it will response with the mocked data, otherwise
-  it will response with 404.
-
-  To learn more about rule files: mock --help rules. See also the samples:
-  https://github.com/bubkoo/licen/tree/master/rules
+  -g, --generate ................. Generate license/header.
+  -s, --show ..................... Print license/header.
+  -i, --introduce ................ Print license introduction.
+  -H, --header ................... Generate/Print a license header.
+  -l, --license ??? .............. Specify a license.
+  -p, --path ??? ................. Specify the license file path.
+  -n, --filename ??? ............. Specify the generated license file name.
+  -f, --fullname ??? ............. Specify the owner's fullname.
+  -e, --email ??? ................ Specify the email.
+  -y, --year ??? ................. Specify the year.
+  --list ......................... List available licenses.
+  -o, --overwrite ................ Overwrite when a license file exist.
+  -c, --config ................... Set the default value of variables.
+  -V, --version .................. Print the current version.
+  -h, --help ..................... You're looking at it.
+  -h, --help [command] ........... Show details for the specified command.
 
 
   Examples:
 
   $ licen
-  $ licen --rule ./rules/random.js
-  $ licen --rule ./rules/random.js --debug
+  $ licen -gol mit -n LICENSE -f yourName
   $ licen --list
-  $ licen --help
+  $ licen --config key1=value1 [key2=value2 ...]
   $ licen --help config
+  $ licen --help
+  $ licen --version
 
   For more details see https://github.com/bubkoo/licen/
