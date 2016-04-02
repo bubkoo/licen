@@ -4,7 +4,7 @@
   "description": "Generate license files for your projects.",
   "main": "./bin/app.js",
   "bin": {
-    "licen": "./bin/app.js"
+    "licen": "./bin/licen.js"
   },
   "keywords": [
     "licen",
