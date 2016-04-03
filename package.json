@@ -1,6 +1,6 @@
 {
   "name": "licen",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Generate license files for your projects.",
   "main": "./bin/app.js",
   "bin": {
