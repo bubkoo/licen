@@ -1,3 +1,8 @@
-logo: 'MOCK '
+logo: 'Licen '
+font: 'gubblebum.ttf'
+spacing: 10
+divided: true
 path:
-  fill: '#6ccb99'
+  fill: '#6af72e'
+path0:
+  fill: '#fc428f'

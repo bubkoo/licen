@@ -1,10 +1,12 @@
-# licen
+
+![licen](https://cdn.rawgit.com/bubkoo/licen/master/logo.svg)
+
 
 > Generate license files for your projects.
 
+
 [![MIT License](https://img.shields.io/badge/license-MIT_License-green.svg?style=flat-square)](https://github.com/bubkoo/licen/blob/master/LICENSE)
- 
-[![NPM](https://nodei.co/npm/licen.png)](https://nodei.co/npm/licen/)
+[![npm:](https://img.shields.io/npm/v/licen.svg?style=flat-square)](https://www.npmjs.com/packages/licen)
 
 
 ## Install
