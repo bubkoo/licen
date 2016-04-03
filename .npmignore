@@ -3,6 +3,10 @@
 .editorconfig
 .gitignore
 .npmignore
+.logorc
+
 npm-debug.log
+logo.svg
+
 /node_modules
 
